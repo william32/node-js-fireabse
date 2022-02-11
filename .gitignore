@@ -1,5 +1,5 @@
 # dependencies
 /node_modules
-
+# varibles locales
 .env
 firebase.json
